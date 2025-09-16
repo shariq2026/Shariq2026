@@ -27,6 +27,14 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
     alt="LeetCode" height="50" width="60"/>
   </a>
+  <a href="https://auth.geeksforgeeks.org/user/your-username" target="_blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
+       alt="GeeksforGeeks" height="50" width="60"/>
+</a>
+
+
+
 </p>
 </br>
 <h2 align="left">Languages and Tools:</h2>
@@ -71,5 +79,5 @@
 </br>
 <h2> Github Stats </h2> 
 <a href=""><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight" /></a>
-<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight" alt="yaseen" />
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight" alt="" />
 <br/>

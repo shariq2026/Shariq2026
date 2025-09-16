@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mohd Shariq Javed</h1>
 <h3 align="center">My educational background includes a B.Tech in Computer Science. I am a full-stack developer, meaning I can work on the front-end and back-end of applications. At the back end, I work mostly with Java, Spring Boot, REST APIs, and MySQL. At the front end, I work with React.js, JavaScript, HTML, CSS, Tailwind CSS, and Bootstrap.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shariq2026&label=Profile%20views&color=0e75b6&style=flat" alt="Shariq2026" /> </p>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=&margin-w=12" alt="" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=Shariq2026&margin-w=12" alt="Shariq2026" />
+  </a> 
 </p>
 </br>
 
-- 🌱 I’m currently learning Springboot
+- 🌱 I’m currently learning Node.js
 
-- 💬 Ask me about Java,DSA,ReactJs
+- 💬 Ask me about HTML, CSS, JS, ReactJs
 
 - 📫 How to reach me javedshariq789@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16sLTFUrDCqjqKbZHaq-4L0f6OnsWEaZG/view?usp=drivesdk](https://drive.google.com/file/d/16sLTFUrDCqjqKbZHaq-4L0f6OnsWEaZG/view?usp=drivesdk)
 </br>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/" target="_blank">
@@ -78,6 +79,6 @@
 </p>
 </br>
 <h2> Github Stats </h2> 
-<a href=""><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight" /></a>
-<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight" alt="" />
+<a href="https://github.com/shariq2026"><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariq2026&layout=compact&theme=tokyonight" /></a>
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=shariq2026&theme=tokyonight" alt="shariq" />
 <br/>

@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [E_commerce-website](https://github.com/shariq2026/E_commerce-Website)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shariq2026/Portfolio](https://github.com/shariq2026/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/shariq2026/Portfolio](https://shariq2026.github.io/Portfolio/)
 
 - 💬 Ask me about **HTML CSS JavaScript REACT.JS**
 

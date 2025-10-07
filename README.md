@@ -37,8 +37,8 @@
 🛠️ Tools
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="filter: invert(1);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariq2026&show_icons=true&locale=en&layout=compact" alt="shariq2026" /></p>
-
+<h2> Github Stats </h2> 
+<a href="https://github.com/shariq2026"><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariq2026&layout=compact&theme=tokyonight" /></a>
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=shariq2026&theme=tokyonight" alt="shariq" />
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariq2026&show_icons=true&locale=en" alt="shariq2026" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariq2026&" alt="shariq2026" /></p>
